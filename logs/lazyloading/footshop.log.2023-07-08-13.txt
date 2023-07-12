@@ -1,0 +1,285 @@
+
+
+****** 07/08/23 13:00:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:01:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:01:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:02:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:03:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:03:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:04:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:04:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:04:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:05:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:05:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:05:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:06:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:06:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:06:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:07:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:07:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:07:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:08:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:08:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:09:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:09:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:10:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:10:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:11:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:12:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:12:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:12:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:13:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:13:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:13:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:14:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:14:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:14:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:15:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:15:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:15:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:16:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:16:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:17:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:17:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:18:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:18:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:19:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:19:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:19:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:19:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:20:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:21:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:22:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:22:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:22:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:23:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:24:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:25:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:25:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:25:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:25:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:26:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:26:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:26:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:27:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:27:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:28:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:28:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:28:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:29:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:29:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:30:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:31:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:31:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:31:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:32:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:32:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:33:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:33:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:34:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:34:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:35:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:35:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:36:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:37:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:37:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:37:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:38:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:39:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:39:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:39:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:40:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:41:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:41:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:41:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:42:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:44:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:44:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:45:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:45:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:45:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:46:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:46:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:47:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:47:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:47:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:48:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:48:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:48:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:48:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:49:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:49:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:50:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688798995105"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:50:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:50:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:50:59 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799028892"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:51:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:51:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:51:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799078798"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:51:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:52:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:52:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:52:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:53:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:53:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:53:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:54:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:54:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799183919"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:54:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:54:59 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:55:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799299194"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:55:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:55:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799334198"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:55:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:56:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1688799357839"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/08/23 13:56:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_index","act":"product","nod":"index"}:[POST]:{"page":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"lProducts":[{"id":"13","SKU":"ACSMFM13","name":"T\u00fai Tote Organic Cotton Th\u00eau Ch\u1eef \"Coffee Lover\"","product_groups_id":"6","sex_id":"9","price":"399000","promotion":"0","images":["public\/images\/products\/acsmfm5.jpg","public\/images\/products\/acsmfm5_1.jpg","public\/images\/products\/acsmfm5_2.jpg","public\/images\/products\/acsmfm5_3.jpg","public\/images\/products\/acsmfm5_4.jpg"],"quantity":"50","description":null,"date_add":"2023-07-04 09:17:58","is_hidden":"0","deleted":"0","link":"tui-tote-organic-cotton-theu-chu-\"coffee-lover\"","priority":"1"},{"id":"11","SKU":"KPM11","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""],"quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":"quan-kaki-nam-tui-suon-tron-form-cargo","priority":"1"},{"id":"12","SKU":"JM12","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"],"quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":"quan-jean-nam-tron-form-slim","priority":"1"},{"id":"10","SKU":"JKM10","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":"ao-khoac-nam-coc-tay-tron-phoi-tui-hop-form-regular","priority":"1"},{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""],"quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":"quan-kaki-nam-tui-suon-tron-form-cargo","priority":"1"},{"id":"6","SKU":"ACSMFM6","name":"Balo Da Tr\u01a1n Form Basic","product_groups_id":"6","sex_id":"9","price":"749000","promotion":"0","images":["public\/images\/products\/acsmfm6.jpg","public\/images\/products\/acsmfm6_1.jpg","public\/images\/products\/acsmfm6_2.jpg","public\/images\/products\/acsmfm6_3.jpgpublic\/images\/products\/acsmfm6_4.jpg"],"quantity":"50","description":null,"date_add":"2023-07-04 09:19:58","is_hidden":"0","deleted":"0","link":"balo-da-tron-form-basic","priority":"1"},{"id":"7","SKU":"PM7","name":"Qu\u1ea7n V\u1ea3i N\u1eef Rayon S\u1ecdc G\u00e2n Tr\u01a1n Form Wide Leg","product_groups_id":"5","sex_id":"8","price":"549000","promotion":"0","images":["public\/images\/products\/pm7.jpg","public\/images\/products\/pm7_1.jpg","public\/images\/products\/pm7_2.jpg","public\/images\/products\/pm7_3.jpg","public\/images\/products\/pm7_4.jpg"],"quantity":"50","description":"","date_add":"2023-07-04 09:29:52","is_hidden":"0","deleted":"0","link":"quan-vai-nu-rayon-soc-gan-tron-form-wide-leg","priority":"1"},{"id":"8","SKU":"TSM8","name":"\u00c1o Thun Organic Cotton Tay Ng\u1eafn Nam C\u1ed5 Tr\u00f2n Form Fitted","product_groups_id":"10","sex_id":"7","price":"250000","promotion":"199000","images":["public\/images\/products\/tsm8.jpg","public\/images\/products\/tsm8_1.jpg","public\/images\/products\/tsm8_2.jpg","public\/images\/products\/tsm8_3.jpg","public\/images\/products\/tsm8_4.jpg","public\/images\/products\/tsm8_5.jpg","public\/images\/products\/tsm8_6.jpg","public\/images\/products\/tsm8_6.jpg"],"quantity":"50","description":null,"date_add":"2023-07-06 23:57:00","is_hidden":"0","deleted":"0","link":"ao-thun-organic-cotton-tay-ngan-nam-co-tron-form-fitted","priority":"1"}],"pagination":"<ul class=\"pagination L\"><li> <a href='' class='countPage active page' data-page='1' > 1 <\/a> <\/li><li> <a href='' class='countPage page' data-page='2'>  2 <\/a> <\/li><li> <a href='' class='countPage page' data-page='3'>  3 <\/a> <\/li><li> <a href='' class='countPage page' data-page=2> >> <\/a><\/li><li><a  class='countPage page' data-page='4' href=''>4<\/a><\/li><li> <a href='' class='countPage page' data-page=4> Cu\u1ed1i trang <\/a><\/li><\/ul>","domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:57:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:57:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:57:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:58:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:58:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:59:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:59:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@mail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"58","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","facebookId":"0","password":"b59c67bf196a4758191e42f76670ceba","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 16:48:43","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570459"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/08/23 13:59:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/08/23 13:59:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

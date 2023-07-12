@@ -1,0 +1,409 @@
+
+
+****** 07/12/23 14:00:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:01:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:01:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:02:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:02:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:02:54 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145374682"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"28","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"29","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:02:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145376601"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"28","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"29","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:02:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145377651"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"28","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"29","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:03:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"KPM3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"28","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:03:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:03:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145388640"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:03:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145399776"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"30","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:03:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"JM4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145505764"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"27","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"SFM1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:05:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145527436"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145532577"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"SFM1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:37 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"32","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:38 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"KPM3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"32","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"JM4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"32","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145542350"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"32","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:05:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:06:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145612763"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:07:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:07:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145631109"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:07:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145631752"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:07:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:07:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:08:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:08:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:08:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:08:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145737386"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"33","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"KPM3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145751608"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"KPM3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145757584"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"34","user_id":"58","pro_SKU":"JM4","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"JM4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145769850"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:31 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145771115"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:09:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145787378"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:10:18 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145817830"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145818588"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:28 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"ACSMFM6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"ACSMFM6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:31 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"ACSMFM6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:10:33 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"ACSMFM6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:11:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145868114"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:11:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:11:29 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145889481"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:11:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:11:48 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145908414"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:12:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:12:14 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145934172"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:12:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145935167"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:12:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"PM7","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"40","user_id":"58","pro_SKU":"PM7","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689145989246"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"40","user_id":"58","pro_SKU":"PM7","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"35","user_id":"58","pro_SKU":"KPM3","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"40","user_id":"58","pro_SKU":"PM7","date_at":"2023-07-12"},{"id":"41","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:20 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"KPM3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"40","user_id":"58","pro_SKU":"PM7","date_at":"2023-07-12"},{"id":"41","user_id":"58","pro_SKU":"JKM2","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:22 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"40","user_id":"58","pro_SKU":"PM7","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"PM7","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"},{"id":"36","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"37","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"38","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"},{"id":"39","user_id":"58","pro_SKU":"ACSMFM6","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:13:28 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"remove"}:[POST]:{"sku":"ACSMFM6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146012270"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:13:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:14:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:14:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:14:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:15:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:15:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:15:28 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146128507"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:15:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:16:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:16:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:16:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:16:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:17:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:17:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:18:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:18:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:18:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:19:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:19:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:19:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:20:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:21:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:22:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:22:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:22:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146546075"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:29 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146549736"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146562100"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146563286"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146565994"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146567635"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:49 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146569374"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:51 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146570922"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:22:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146573080"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:23:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:23:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146599076"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:23:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:23:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:24:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:24:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:24:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146675621"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:24:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:24:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:24:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146685616"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:25:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:25:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:25:33 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146733496"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:25:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146735047"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:25:38 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689146737943"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:25:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:26:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:26:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:26:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:27:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:27:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:27:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:28:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:28:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:28:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:28:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:29:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:29:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:29:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:30:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:31:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:31:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:31:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147090062"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:31:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:32:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:32:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:32:28 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147147968"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:32:29 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147148946"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:32:31 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147151603"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:32:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:33:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147181870"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:33:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"7","idProduct":"3","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"10","id":"10","1":"3","root_id":"3","2":"4","size_id":"4","3":"7","color_id":"7","4":"KPM347","SKU":"KPM347","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:33:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147192197"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:33:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147194953"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:33:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:33:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:34:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:34:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:34:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:35:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:36:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:36:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:36:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:36:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:37:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:37:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:37:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:38:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:38:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:38:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:38:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:39:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:40:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:41:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:42:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:43:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:43:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147783324"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:43:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"8","idProduct":"4","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"13","id":"13","1":"4","root_id":"4","2":"9","size_id":"9","3":"8","color_id":"8","4":"JM498","SKU":"JM498","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:43:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"8","idProduct":"4","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"13","id":"13","1":"4","root_id":"4","2":"9","size_id":"9","3":"8","color_id":"8","4":"JM498","SKU":"JM498","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:43:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689147796886"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:48:24 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148104127"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:48:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:49:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:49:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:49:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:49:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:50:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148201588"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:50:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"5","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"16","id":"16","1":"5","root_id":"5","2":"13","size_id":"13","3":"1","color_id":"1","4":"ACSMFM5131","SKU":"ACSMFM5131","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/acsmfm5.jpg;public\/images\/products\/acsmfm5_1.jpg;public\/images\/products\/acsmfm5_2.jpg;public\/images\/products\/acsmfm5_3.jpg;public\/images\/products\/acsmfm5_4.jpg","images":["public\/images\/products\/acsmfm5.jpg","public\/images\/products\/acsmfm5_1.jpg","public\/images\/products\/acsmfm5_2.jpg","public\/images\/products\/acsmfm5_3.jpg","public\/images\/products\/acsmfm5_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:50:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:50:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:50:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:51:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:51:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:51:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:52:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148322566"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:52:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:52:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:52:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:53:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:54:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:54:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:54:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:54:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148492630"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:55:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:55:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148523147"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:55:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"14","idProduct":"5","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"16","id":"16","1":"5","root_id":"5","2":"13","size_id":"13","3":"14","color_id":"14","4":"ACSMFM5131","SKU":"ACSMFM5131","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/acsmfm5.jpg;public\/images\/products\/acsmfm5_1.jpg;public\/images\/products\/acsmfm5_2.jpg;public\/images\/products\/acsmfm5_3.jpg;public\/images\/products\/acsmfm5_4.jpg","images":["public\/images\/products\/acsmfm5.jpg","public\/images\/products\/acsmfm5_1.jpg","public\/images\/products\/acsmfm5_2.jpg","public\/images\/products\/acsmfm5_3.jpg","public\/images\/products\/acsmfm5_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:55:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148532023"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:55:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/12/23 14:59:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689148793101"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:59:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"15","idProduct":"6","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"18","id":"18","1":"6","root_id":"6","2":"13","size_id":"13","3":"15","color_id":"15","4":"ACSMFM61315","SKU":"ACSMFM61315","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/acsmfm6.jpg;public\/images\/products\/acsmfm6_1.jpg;public\/images\/products\/acsmfm6_2.jpg;public\/images\/products\/acsmfm6_3.jpgpublic\/images\/products\/acsmfm6_4.jpg","images":["public\/images\/products\/acsmfm6.jpg","public\/images\/products\/acsmfm6_1.jpg","public\/images\/products\/acsmfm6_2.jpg","public\/images\/products\/acsmfm6_3.jpgpublic\/images\/products\/acsmfm6_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/12/23 14:59:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"15","idProduct":"6","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"18","id":"18","1":"6","root_id":"6","2":"13","size_id":"13","3":"15","color_id":"15","4":"ACSMFM61315","SKU":"ACSMFM61315","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/acsmfm6.jpg;public\/images\/products\/acsmfm6_1.jpg;public\/images\/products\/acsmfm6_2.jpg;public\/images\/products\/acsmfm6_3.jpgpublic\/images\/products\/acsmfm6_4.jpg","images":["public\/images\/products\/acsmfm6.jpg","public\/images\/products\/acsmfm6_1.jpg","public\/images\/products\/acsmfm6_2.jpg","public\/images\/products\/acsmfm6_3.jpgpublic\/images\/products\/acsmfm6_4.jpg"],"9":"50","quantity":"50","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}

@@ -1,0 +1,593 @@
+
+
+****** 07/09/23 14:00:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:00:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:01:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:01:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:02:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:02:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:03:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:03:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:04:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:04:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:05:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:05:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:06:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:06:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:07:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:08:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:09:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:09:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:10:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:10:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:11:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:11:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:12:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:12:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:13:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:13:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:14:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:14:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:15:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:15:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:15:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:15:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:15:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:16:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:16:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:16:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:16:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:17:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:17:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:17:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:17:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"undefined","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/09/23 14:18:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:18:25 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/09/23 14:18:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:18:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:19:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:19:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:19:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:19:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:19:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:21:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:21:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:21:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: price in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>12</b><br />
+
+
+****** 07/09/23 14:22:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:22:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:22:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:23:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:23:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:23:31 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:23:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:23:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:23:48 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: price in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>12</b><br />
+
+
+****** 07/09/23 14:23:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:24:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:24:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:24:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:24:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:24:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:25:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:25:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:25:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:25:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:25:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: SFM152 in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+
+
+****** 07/09/23 14:26:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:26:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:26:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:26:37 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => Array
+        (
+            [id] => SFM152
+            [img] => public/images/products/sfm1_v2.jpg
+            [name] => Áo Sơ Mi Nữ Sát Nách Cổ V Xẻ Trước Trơn Form Regular
+            [version] => M - Vàng đất
+            [quantity] => 1
+            [price] => 50000.00
+            [total] => 50000
+        )
+
+)
+
+
+****** 07/09/23 14:26:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:27:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:27:18 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: id in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+
+
+****** 07/09/23 14:27:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:27:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:27:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:28:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:28:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:28:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:28:38 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: SFM152 in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+
+
+****** 07/09/23 14:28:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:29:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:29:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"SFM152","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152
+
+****** 07/09/23 14:29:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:29:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:30:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:30:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:30:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:30:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:30:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152
+
+****** 07/09/23 14:31:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152done##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:16 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:24 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152done##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:31:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:31:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:31:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"-1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined offset: -1 in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+
+
+****** 07/09/23 14:31:55 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152
+
+****** 07/09/23 14:31:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:32:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"-1","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined offset: -1 in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>11</b><br />
+
+
+****** 07/09/23 14:32:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:32:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:32:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:32:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM152
+
+****** 07/09/23 14:32:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSFM151
+
+****** 07/09/23 14:32:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:33:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/09/23 14:33:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/09/23 14:33:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:33:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:33:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:34:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:34:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:34:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:35:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:35:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:35:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":3,"price":"50000.00","total":150000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"2","price":"50000.00","total":100000}],"subTotal":250000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:35:16 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":4,"price":"50000.00","total":200000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"2","price":"50000.00","total":100000}],"subTotal":300000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:35:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:35:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:35:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:36:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:36:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:36:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:36:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:36:48 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"3","price":"50000.00","total":150000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:37:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:37:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:37:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:37:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:37:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:38:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:38:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:38:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:38:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:39:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:39:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:39:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:40:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:40:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:40:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:40:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:40:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:41:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:41:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:41:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:41:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"5","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"5","price":"50000.00","total":250000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:42:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"4","price":"50000.00","total":200000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:42:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:42:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:43:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:43:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:43:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:43:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:43:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:44:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:44:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:45:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:45:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:45:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:45:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"5","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"5","price":"50000.00","total":250000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:45:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"0","quantity":"6","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"6","price":"50000.00","total":300000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:46:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:46:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:46:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:46:37 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"-1","quantity":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: price in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>13</b><br />
+done##{"status":200,"message":"success","data":{"cart":{"quantity":"4","total":0},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:46:38 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"-1","quantity":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: price in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>13</b><br />
+done##{"status":200,"message":"success","data":{"cart":{"quantity":"3","total":0},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:46:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:46:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:47:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:47:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:47:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:47:37 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:39 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:47:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"6","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"6","idColor":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:47:55 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"2","price":"50000.00","total":100000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:48:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"-1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined index: price in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>13</b><br />
+done##{"status":200,"message":"success","data":{"cart":{"quantity":"1","total":0},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:48:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:48:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:48:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:48:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:48:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:48:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:49:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:49:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:49:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:49:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:50:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:50:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:50:39 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:41 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"2","price":"50000.00","total":100000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:54 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"2","price":"50000.00","total":100000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:55 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"2","price":"50000.00","total":100000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:50:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:51:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:51:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:51:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:51:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:51:38 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"2","price":"50000.00","total":100000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:51:41 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:51:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:51:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:52:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:53:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>4</b><br />
+Missing apikey request
+
+****** 07/09/23 14:53:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>4</b><br />
+Missing apikey request
+
+****** 07/09/23 14:53:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>22</b><br />
+Missing apikey request
+
+****** 07/09/23 14:53:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>22</b><br />
+Missing apikey request
+
+****** 07/09/23 14:54:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>22</b><br />
+Missing apikey request
+
+****** 07/09/23 14:54:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  Declaration of cart::delete($key) should be compatible with model::delete() in <b>D:\ThucTap\thuchanhthuctap\class\cart.php</b> on line <b>5</b><br />
+Missing apikey request
+
+****** 07/09/23 14:55:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:55:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:55:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:55:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:55:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:56:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:57:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"0","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##<br />
+<b>Notice</b>:  Undefined offset: 1 in <b>D:\ThucTap\thuchanhthuctap\lazyloading\cart_detail.php</b> on line <b>11</b><br />
+{"status":200,"message":"success","data":{"cart":null,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:57:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart_detail","act":"cart","nod":"update"}:[POST]:{"key":"1","quantity":"0","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##<br />
+<b>Notice</b>:  Undefined offset: 1 in <b>D:\ThucTap\thuchanhthuctap\lazyloading\cart_detail.php</b> on line <b>11</b><br />
+{"status":200,"message":"success","data":{"cart":null,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/09/23 14:57:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:57:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:57:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:57:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:57:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:58:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:58:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:58:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:58:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:59:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/09/23 14:59:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

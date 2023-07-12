@@ -1,0 +1,671 @@
+
+
+****** 07/07/23 16:00:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\include\db.php</b> on line <b>156</b><br />
+
+
+****** 07/07/23 16:00:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:00:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:00:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:00:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:01:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:01:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:01:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:01:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:02:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:02:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:02:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:03:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:03:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:03:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:04:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:04:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:04:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:04:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:05:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:05:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:05:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:06:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:06:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:06:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:07:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:07:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:07:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:07:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:08:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:08:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:08:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:09:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:09:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:09:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:10:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:10:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:10:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:10:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:11:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:11:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:11:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:12:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:12:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:12:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:13:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:13:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:13:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:13:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:14:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:14:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:14:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:15:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:15:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:15:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:16:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:16:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:16:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:16:57 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\nhaiduong07112k3@mail.com
+
+****** 07/07/23 16:17:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:17:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:17:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:17:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:17:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:17:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:17:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\nSELECT `email` FROM footshop.`user` WHERE `email` = 'haiduong07112k3@mail.com'
+
+****** 07/07/23 16:18:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:18:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:18:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:18:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:18:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:18:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:19:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:19:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:19:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"501210803@stu.itc.edu.vn","phone":"0346098854","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Array to string conversion in <b>D:\ThucTap\thuchanhthuctap\class\user.php</b> on line <b>195</b><br />
+ArrayArray
+(
+    [email] => 501210803@stu.itc.edu.vn
+)
+
+
+****** 07/07/23 16:19:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\include\db.php</b> on line <b>156</b><br />
+
+
+****** 07/07/23 16:20:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:20:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:20:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:20:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:20:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:21:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"501210803@stu.itc.edu.vn","phone":"0346098854","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 501210803@stu.itc.edu.vn
+    [email] => 501210803@stu.itc.edu.vn
+)
+Array
+(
+    [0] => 501210803@stu.itc.edu.vn
+    [email] => 501210803@stu.itc.edu.vn
+)
+
+
+****** 07/07/23 16:21:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:21:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>D:\ThucTap\thuchanhthuctap\include\db.php</b> on line <b>156</b><br />
+
+
+****** 07/07/23 16:21:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:22:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:22:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:22:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:22:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:23:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:23:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: result in <b>D:\ThucTap\thuchanhthuctap\lazyloading\user_register.php</b> on line <b>19</b><br />
+
+
+****** 07/07/23 16:23:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:23:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:23:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:24:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:24:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:24:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:24:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:24:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:24:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:25:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:25:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:25:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:25:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:25:51 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:26:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"501210803@stu.itc.edu.vn","phone":"0346098854","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:26:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:26:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:26:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:26:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:27:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:27:24 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n
+
+****** 07/07/23 16:27:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:27:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:27:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:28:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"501210803@stu.itc.edu.vn","phone":"0346098854","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\n501210803@stu.itc.edu.vnArray
+(
+    [0] => 501210803@stu.itc.edu.vn
+    [email] => 501210803@stu.itc.edu.vn
+)
+
+
+****** 07/07/23 16:28:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:28:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:28:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\nhaiduong07112k3@mail.com
+
+****** 07/07/23 16:28:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:29:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong071103@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\nhaiduong071103@gmail.comArray
+(
+    [0] => haiduong071103@gmail.com
+    [email] => haiduong071103@gmail.com
+)
+done##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:29:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:29:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:29:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:29:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:29:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:30:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:30:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:31:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:32:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:32:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:32:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:32:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:32:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:32:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:33:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:33:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:33:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"1111","passwordAgain":"111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:33:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:33:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:33:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:33:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:33:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:34:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:34:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:34:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong071103@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":"email exited"}
+
+****** 07/07/23 16:34:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:34:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:34:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:35:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:36:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong071103@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":""}
+
+****** 07/07/23 16:36:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:36:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:36:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:36:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:37:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"LEHAIDUONG","email":"haiduong07112k3@gmail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":""}
+
+****** 07/07/23 16:38:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:38:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:39:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:39:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:39:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:39:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:39:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:40:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:41:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:42:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:43:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:43:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:43:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:43:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:43:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:44:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:44:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:44:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:45:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:45:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:45:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:45:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:46:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:46:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:46:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:46:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:46:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:47:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:48:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@mail.com","phone":"0357570459","password":"1111","passwordAgain":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/07/23 16:48:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:49:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:34 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"111111","passwordAgain":"11111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:50:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:50:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:51:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"","email":"","phone":"","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:51:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:51:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:51:29 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:51:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:51:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:51:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:51:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:52:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:52:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:52:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:52:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:52:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:52:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:53:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:53:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:54:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:54:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:55:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:55:18 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:55:20 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:55:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:55:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:55:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:55:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:56:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:56:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"","email":"","phone":"","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:56:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:56:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:56:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_register","act":"register","nod":"insert"}:[POST]:{"fullName":"Le Hai Duong","email":"haiduong07112k3@mail.com","phone":"0357570455","password":"","passwordAgain":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"email exited","data":null}
+
+****** 07/07/23 16:56:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:57:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:57:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:57:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:57:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:58:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:58:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:58:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/07/23 16:59:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

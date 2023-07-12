@@ -1,0 +1,349 @@
+
+
+****** 07/11/23 14:00:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:00:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:00:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:00:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:00:45 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:00:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"add_cart"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":150000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:00:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:01:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:01:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:01:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:02:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:02:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:02:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:03:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:03:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:03:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:03:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:04:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:04:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:04:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:05:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:05:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:05:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:06:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:06:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:06:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:06:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:07:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:07:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:07:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:08:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:08:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:08:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:09:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:09:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:10:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:10:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:10:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:11:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:11:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:11:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:12:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:12:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:13:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:13:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:13:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:14:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:15:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:16:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:16:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:17:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:17:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:17:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:17:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:18:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:18:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:18:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:19:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:19:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:20:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:20:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:20:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:21:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:21:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:21:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:22:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:22:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:22:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:22:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:23:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:23:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:23:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:24:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:24:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:24:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:25:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:25:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:25:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:26:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:27:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:27:22 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:27:24 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:27:25 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"4","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:27:25 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:27:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"4","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":200000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:27:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:27:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:28:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:28:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:29:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:30:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:31:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:32:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:33:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:34:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:35:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:35:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:36:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:36:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:36:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:37:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:37:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:37:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:37:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":150000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:38:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:38:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:38:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:39:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:39:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:40:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:41:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:42:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:43:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:43:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":2,"price":"50000.00","total":100000}],"subTotal":200000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:28 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:46 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM161","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"L - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:43:49 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"0","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[],"subTotal":0,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:44:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"4","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"4","idColor":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":50000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"4","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"category","nod":"getColorBySize"}:[POST]:{"idSize":"5","idProduct":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"colors":[{"0":"1","id":"1","1":"Tr\u1eafng","name":"Tr\u1eafng","2":"public\/images\/products\/sfm1_icon.jpg","image_icon":"public\/images\/products\/sfm1_icon.jpg","3":"#FFFFFF","value":"#FFFFFF","4":"color","type":"color"},{"0":"2","id":"2","1":"V\u00e0ng \u0111\u1ea5t","name":"V\u00e0ng \u0111\u1ea5t","2":"public\/images\/products\/sfm1_v2_icon.jpg","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg","3":"#918051","value":"#918051","4":"color","type":"color"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"1","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"1","id":"1","1":"1","root_id":"1","2":"4","size_id":"4","3":"1","color_id":"1","4":"SFM141","SKU":"SFM141","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"9":"28","quantity":"28","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000}],"subTotal":150000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"product_detail","act":"product","nod":"property"}:[POST]:{"idColor":"2","idProduct":"1","idSize":"","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product_ops":[{"0":"4","id":"4","1":"1","root_id":"1","2":"4","size_id":"4","3":"2","color_id":"2","4":"SFM142","SKU":"SFM142","5":"100000.00","price":"100000.00","6":"50000.00","promotion":"50000.00","7":null,"link":null,"8":"public\/images\/products\/sfm1_v2.jpg;public\/images\/products\/sfm1_1_v2.jpg;public\/images\/products\/sfm1_2_v2.jpg;public\/images\/products\/sfm1_3_v2.jpg","images":["public\/images\/products\/sfm1_v2.jpg","public\/images\/products\/sfm1_1_v2.jpg","public\/images\/products\/sfm1_2_v2.jpg","public\/images\/products\/sfm1_3_v2.jpg"],"9":"49","quantity":"49","10":"0","is_hidden":"0","11":"0","deleted":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"add"}:[POST]:{"id":"1","quantity":"1","idSize":"5","idColor":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM141","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":200000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:44:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:44:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:44:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:45:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:45:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:46:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:46:10 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"0","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM151","img":"public\/images\/products\/sfm1.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - Tr\u1eafng","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":150000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:46:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:46:34 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"cart","act":"index","nod":"remove"}:[POST]:{"key":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"cart":[{"id":"SFM142","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"S - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000},{"id":"SFM152","img":"public\/images\/products\/sfm1_v2.jpg","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","version":"M - V\u00e0ng \u0111\u1ea5t","quantity":"1","price":"50000.00","total":50000}],"subTotal":100000,"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/11/23 14:47:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:47:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:47:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:47:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:48:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:49:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:50:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:50:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:51:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:52:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:53:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:54:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:55:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:56:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:57:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:58:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:58:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:59:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:59:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:59:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/11/23 14:59:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

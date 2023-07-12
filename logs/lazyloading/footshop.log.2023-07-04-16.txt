@@ -1,0 +1,343 @@
+
+
+****** 07/04/23 16:06:49 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail","_":"1688461602466"}:[POST]:[][dUser]null:[dUserClient]null:\na
+
+****** 07/04/23 16:07:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:07:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:07:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:08:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail","_":"1688461675465"}:[POST]:[][dUser]null:[dUserClient]null:\na
+
+****** 07/04/23 16:08:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:08:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\na
+
+****** 07/04/23 16:08:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:09:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:09:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_product","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\nb
+
+****** 07/04/23 16:09:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:09:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:09:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:10:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:10:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:11:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:11:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:11:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:12:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:12:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"9","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndetail
+
+****** 07/04/23 16:12:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:12:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:12:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\nget
+
+****** 07/04/23 16:13:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:13:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:13:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:13:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:14:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:15:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:15:43 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\n0
+
+****** 07/04/23 16:15:52 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\n0
+
+****** 07/04/23 16:15:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:16:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:16:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\n4
+
+****** 07/04/23 16:16:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:16:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:17:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:17:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:17:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:18:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:18:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:19:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:19:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:19:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:20:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:20:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{}}
+
+****** 07/04/23 16:20:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:20:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:21:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:21:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":[{"id":"4","SKU":"JM4","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":null,"priority":"1"}]}
+
+****** 07/04/23 16:21:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:21:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:22:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:22:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:22:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"5","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"5","SKU":"ACSMFM5","name":"T\u00fai Tote Organic Cotton Th\u00eau Ch\u1eef \"Coffee Lover\"","product_groups_id":"6","sex_id":"9","price":"399000","promotion":"0","images":"public\/images\/products\/acsmfm5.jpg;public\/images\/products\/acsmfm5_1.jpg;public\/images\/products\/acsmfm5_2.jpg;public\/images\/products\/acsmfm5_3.jpg;public\/images\/products\/acsmfm5_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:17:58","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/acsmfm5.jpg","public\/images\/products\/acsmfm5_1.jpg","public\/images\/products\/acsmfm5_2.jpg","public\/images\/products\/acsmfm5_3.jpg","public\/images\/products\/acsmfm5_4.jpg"]}}
+
+****** 07/04/23 16:22:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:23:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:23:22 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:23:34 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:23:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:24:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:24:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:24:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:25:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:25:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:25:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:25:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:26:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:26:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:26:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:26:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"4","SKU":"JM4","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"]}}
+
+****** 07/04/23 16:27:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:27:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:27:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"4","SKU":"JM4","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"]}}
+
+****** 07/04/23 16:27:59 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:28:11 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:28:24 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:28:42 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:28:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:29:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:29:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:29:26 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:29:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:29:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:30:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:31:56 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"4","SKU":"JM4","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"]}}
+
+****** 07/04/23 16:33:48 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:34:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:34:15 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:34:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:34:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:34:54 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:35:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:35:20 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:35:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:35:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:35:59 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:36:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:36:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:36:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:36:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:37:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:37:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:37:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:38:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:38:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:38:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:38:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:39:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:39:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:39:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:40:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:40:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:40:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:41:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:42:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:43:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:44:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:45:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:45:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:45:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:45:55 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:46:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:46:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:46:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:47:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:47:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:47:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:47:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:48:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:48:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:48:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:49:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:49:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:49:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:49:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:50:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:50:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:50:49 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:51:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:51:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:51:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:51:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:52:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:52:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:53:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:53:12 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:53:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:53:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:53:48 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""]}}
+
+****** 07/04/23 16:54:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:54:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:54:33 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"]}}
+
+****** 07/04/23 16:54:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:55:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:55:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:55:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:55:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:56:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:56:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:56:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:57:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:57:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:57:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:58:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:58:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"get","nod":"detail"}:[POST]:{"idProd":"4","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"product":[{"id":"4","SKU":"JM4","name":"Qu\u1ea7n Jean Nam Tr\u01a1n Form Slim","product_groups_id":"4","sex_id":"7","price":"579000","promotion":"0","images":"public\/images\/products\/jm4.jpg;public\/images\/products\/jm4.jpg;public\/images\/products\/jm4_1.jpg;public\/images\/products\/jm4_2.jpg;public\/images\/products\/jm4_3.jpg;public\/images\/products\/jm4_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:12:11","is_hidden":"0","deleted":"0","link":null,"priority":"1"}],"images":["public\/images\/products\/jm4.jpg","public\/images\/products\/jm4.jpg","public\/images\/products\/jm4_1.jpg","public\/images\/products\/jm4_2.jpg","public\/images\/products\/jm4_3.jpg","public\/images\/products\/jm4_4.jpg"]}}
+
+****** 07/04/23 16:58:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:58:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:59:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:59:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/04/23 16:59:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

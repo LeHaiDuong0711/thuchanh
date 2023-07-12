@@ -1,0 +1,65 @@
+
+
+****** 07/13/23 00:00:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:00:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:01:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:02:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:03:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:04:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:05:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:06:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:07:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:08:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:09:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:10:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:11:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:12:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:12:13 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689181933647"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 00:12:14 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689181934279"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 00:12:19 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_order","act":"order","nod":"cancel"}:[POST]:{"order_id":"163","browser":"Chrome"}[dUser]null:[dUserClient]null:\n163done##{"status":200,"message":"success","data":{"all":[{"id":"163","user_id":"58","phone":"0357570459","total":"100000","intoMoney":"130000","note":"","address":"thu\u1eadn h\u00f2a","book_date":"2023-07-10 14:40:07","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-13 00:12:19","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"194","order_id":"163","pro_SKU":"SFM151","pro_image":"public\/images\/products\/sfm1.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" Tr\u1eafng"},{"id":"195","order_id":"163","pro_SKU":"SFM152","pro_image":"public\/images\/products\/sfm1_v2.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" V\u00e0ng \u0111\u1ea5t"}]},{"id":"164","user_id":"58","phone":"0346098854","total":"100000","intoMoney":"130000","note":"","address":"12 v\u00f5 ho\u00e0nh","book_date":"2023-07-12 15:21:09","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-12 23:19:38","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"196","order_id":"164","pro_SKU":"TSM8418","pro_image":"public\/images\/products\/tsm8.jpg","pro_name":"\u00c1o Thun Organic Cotton Tay Ng\u1eafn Nam C\u1ed5 Tr\u00f2n Form Fitted","price":"50000","quantity":"2","total":"100000","size":"S ","color":" Tr\u1eafng"}]}],"processing":[],"delivering":[],"received":[],"cancel":[{"id":"163","user_id":"58","phone":"0357570459","total":"100000","intoMoney":"130000","note":"","address":"thu\u1eadn h\u00f2a","book_date":"2023-07-10 14:40:07","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-13 00:12:19","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"194","order_id":"163","pro_SKU":"SFM151","pro_image":"public\/images\/products\/sfm1.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" Tr\u1eafng"},{"id":"195","order_id":"163","pro_SKU":"SFM152","pro_image":"public\/images\/products\/sfm1_v2.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" V\u00e0ng \u0111\u1ea5t"}]},{"id":"164","user_id":"58","phone":"0346098854","total":"100000","intoMoney":"130000","note":"","address":"12 v\u00f5 ho\u00e0nh","book_date":"2023-07-12 15:21:09","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-12 23:19:38","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"196","order_id":"164","pro_SKU":"TSM8418","pro_image":"public\/images\/products\/tsm8.jpg","pro_name":"\u00c1o Thun Organic Cotton Tay Ng\u1eafn Nam C\u1ed5 Tr\u00f2n Form Fitted","price":"50000","quantity":"2","total":"100000","size":"S ","color":" Tr\u1eafng"}]}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 00:12:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:12:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:13:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:13:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:13:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:14:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:14:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:14:39 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:14:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:15:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:16:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:16:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 00:16:32 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689182191878"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"31","user_id":"58","pro_SKU":"SFM1","date_at":"2023-07-12"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 00:16:39 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_order","act":"order","nod":"cancel"}:[POST]:{"order_id":"163","browser":"Chrome"}[dUser]null:[dUserClient]null:\n163done##{"status":200,"message":"success","data":{"all":[{"id":"163","user_id":"58","phone":"0357570459","total":"100000","intoMoney":"130000","note":"","address":"thu\u1eadn h\u00f2a","book_date":"2023-07-10 14:40:07","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-13 00:16:39","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"194","order_id":"163","pro_SKU":"SFM151","pro_image":"public\/images\/products\/sfm1.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" Tr\u1eafng"},{"id":"195","order_id":"163","pro_SKU":"SFM152","pro_image":"public\/images\/products\/sfm1_v2.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" V\u00e0ng \u0111\u1ea5t"}]},{"id":"164","user_id":"58","phone":"0346098854","total":"100000","intoMoney":"130000","note":"","address":"12 v\u00f5 ho\u00e0nh","book_date":"2023-07-12 15:21:09","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-12 23:19:38","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"0","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"196","order_id":"164","pro_SKU":"TSM8418","pro_image":"public\/images\/products\/tsm8.jpg","pro_name":"\u00c1o Thun Organic Cotton Tay Ng\u1eafn Nam C\u1ed5 Tr\u00f2n Form Fitted","price":"50000","quantity":"2","total":"100000","size":"S ","color":" Tr\u1eafng"}]}],"processing":[{"id":"164","user_id":"58","phone":"0346098854","total":"100000","intoMoney":"130000","note":"","address":"12 v\u00f5 ho\u00e0nh","book_date":"2023-07-12 15:21:09","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-12 23:19:38","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"0","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"196","order_id":"164","pro_SKU":"TSM8418","pro_image":"public\/images\/products\/tsm8.jpg","pro_name":"\u00c1o Thun Organic Cotton Tay Ng\u1eafn Nam C\u1ed5 Tr\u00f2n Form Fitted","price":"50000","quantity":"2","total":"100000","size":"S ","color":" Tr\u1eafng"}]}],"delivering":[],"received":[],"cancel":[{"id":"163","user_id":"58","phone":"0357570459","total":"100000","intoMoney":"130000","note":"","address":"thu\u1eadn h\u00f2a","book_date":"2023-07-10 14:40:07","delivery_date":"0000-00-00 00:00:00","cancellation_date":"2023-07-13 00:16:39","reset_date":"0000-00-00 00:00:00","received_date":"0000-00-00 00:00:00","status":"3","payment_id":"1","is_hidden":"0","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","orderdetail":[{"id":"194","order_id":"163","pro_SKU":"SFM151","pro_image":"public\/images\/products\/sfm1.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" Tr\u1eafng"},{"id":"195","order_id":"163","pro_SKU":"SFM152","pro_image":"public\/images\/products\/sfm1_v2.jpg","pro_name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","price":"50000","quantity":"1","total":"50000","size":"M ","color":" V\u00e0ng \u0111\u1ea5t"}]}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 00:16:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
