@@ -14,14 +14,16 @@
     protected $priority;
 
     //lấy danh sách sản phẩm theo giới hạn, 
-    public function list_product($offset = '', $limit = '')
+    public function list_product($keyword='',$offset = '', $limit = '')
     {
         global $db, $main;
         $hidden         = $this->get('is_hidden');
 
-
+        if($keyword!==''){
+            $keyword = " AND `name` LIKE '%$keyword%' ";
+        } 
         if ($hidden !== '') {
-            $hidden = "AND `is_hidden` = '$hidden' ";
+            $hidden = " AND `is_hidden` = '$hidden' ";
         }
 
         if ($limit !== '') $limit = "LIMIT $offset, $limit ";
@@ -29,6 +31,7 @@
         $sql = "SELECT * 
             FROM $db->tbl_fix$this->class_name tb
             WHERE `deleted` = 0 
+            $keyword
             $hidden
             ORDER BY `id` ASC
             $limit";
@@ -41,9 +44,42 @@
             $row['link'] = $main->convert_link_url($row['name']);
             $kq[] = $row;
         }
-
+// echo $sql;
         return $kq;
     }
+
+    //  //lấy danh sách sản phẩm theo giới hạn, 
+    //  public function listProductByFilled($keyword,$offset = '', $limit = '')
+    //  {
+    //      global $db, $main;
+    //      $hidden         = $this->get('is_hidden');
+ 
+ 
+    //      if ($hidden !== '') {
+    //          $hidden = "AND `is_hidden` = '$hidden' ";
+    //      }
+ 
+    //      if ($limit !== '') $limit = "LIMIT $offset, $limit ";
+ 
+    //      $sql = "SELECT * 
+    //          FROM $db->tbl_fix$this->class_name tb
+    //          WHERE `deleted` = 0 AND `name` LIKE '%$keyword%'
+    //          $hidden
+    //          ORDER BY `id` ASC
+    //          $limit";
+ 
+    //      // exit();
+    //      $r = $db->executeQuery($sql);
+    //      $kq = array();
+    //      while ($row = mysqli_fetch_assoc($r)) {
+    //          $row['images'] = explode(';', $row['images']);
+    //          $row['link'] = $main->convert_link_url($row['name']);
+    //          $kq[] = $row;
+    //      }
+ 
+    //      return $kq;
+    //  }
+ 
 
     public function getProductById($id)
     {

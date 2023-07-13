@@ -6,7 +6,8 @@
     function getWishlistByUser()
     {
         global $db;
-        $user_id = $_SESSION['user']['id'];
+       
+        $user_id =isset($_SESSION['user'])? $_SESSION['user']['id']:0;
         $sql = "SELECT * 
             FROM $db->tbl_fix$this->class_name tb where `user_id`= $user_id;
           ";

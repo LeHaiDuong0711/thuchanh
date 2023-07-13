@@ -17,7 +17,7 @@ if ($act == 'index') {
     $AllProducts = $products->list_product();
     $paging->set('total', count($AllProducts));
 
-    $lProducts = $products->list_product($offset, $limit);
+    $lProducts = $products->list_product($keyword='',$offset, $limit);
     $pagination = $paging->display_ajax();
     $st->assign('pagination', $pagination);
     $st->assign('lProducts', $lProducts);

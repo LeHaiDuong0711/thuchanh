@@ -85,7 +85,7 @@ function renderListOrder(
       `<div class="card-footer">
     <div class="product-price float-right">Tổng tiền:  ` +
       formatCurrency(value.total) +
-      `</div>
+      `</div> 
     
 </div>
 </div>`;

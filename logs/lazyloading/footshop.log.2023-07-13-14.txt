@@ -1,0 +1,781 @@
+
+
+****** 07/13/23 14:00:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:01:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:01:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:02:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:02:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:02:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:03:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:03:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:03:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:04:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:04:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:04:38 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:05:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:05:32 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:05:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:06:08 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:06:26 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:06:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:07:02 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:07:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:07:50 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:07:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:08:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:08:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:09:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:09:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:09:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:10:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:10:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:10:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:10:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:11:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:11:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:11:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:12:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:12:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:12:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:13:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:13:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:13:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:13:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:14:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:17:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:17:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:17:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:18:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:18:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:18:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:19:58 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:20:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:20:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:20:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:21:17 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:21:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:21:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:22:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:22:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:22:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"6","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 13
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"6","SKU":"ACSMFM6","name":"Balo Da Tr\u01a1n Form Basic","product_groups_id":"6","sex_id":"9","price":"749000","promotion":"0","images":"public\/images\/products\/acsmfm6.jpg;public\/images\/products\/acsmfm6_1.jpg;public\/images\/products\/acsmfm6_2.jpg;public\/images\/products\/acsmfm6_3.jpg;public\/images\/products\/acsmfm6_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:19:58","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/acsmfm6.jpg","public\/images\/products\/acsmfm6_1.jpg","public\/images\/products\/acsmfm6_2.jpg","public\/images\/products\/acsmfm6_3.jpg","public\/images\/products\/acsmfm6_4.jpg"],"colors":[{"id":"15","name":"\u0110en","value":"#1B1B1B","image_icon":"public\/images\/products\/acsmfm6_icon.jpg"}],"sizes":[{"id":"13","name":"Freesize","value":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:22:53 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"6","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 13
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"6","SKU":"ACSMFM6","name":"Balo Da Tr\u01a1n Form Basic","product_groups_id":"6","sex_id":"9","price":"749000","promotion":"0","images":"public\/images\/products\/acsmfm6.jpg;public\/images\/products\/acsmfm6_1.jpg;public\/images\/products\/acsmfm6_2.jpg;public\/images\/products\/acsmfm6_3.jpg;public\/images\/products\/acsmfm6_4.jpg","quantity":"50","description":null,"date_add":"2023-07-04 09:19:58","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/acsmfm6.jpg","public\/images\/products\/acsmfm6_1.jpg","public\/images\/products\/acsmfm6_2.jpg","public\/images\/products\/acsmfm6_3.jpg","public\/images\/products\/acsmfm6_4.jpg"],"colors":[{"id":"15","name":"\u0110en","value":"#1B1B1B","image_icon":"public\/images\/products\/acsmfm6_icon.jpg"}],"sizes":[{"id":"13","name":"Freesize","value":"0"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:22:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:22:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:00 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:01 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:02 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:03 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:04 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:06 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:07 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:08 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:09 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:24:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:21 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:22 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:22 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:24:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:40 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"2","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"2","SKU":"JKM2","name":"\u00c1o Kho\u00e1c Nam C\u1ed9c Tay Tr\u01a1n Ph\u1ed1i T\u00fai H\u1ed9p Form Regular","product_groups_id":"2","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/jkm2.jpg;public\/images\/products\/jkm2_1.jpg;public\/images\/products\/jkm2_2.jpg;public\/images\/products\/jkm2_3.jpg;public\/images\/products\/jkm2_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/jkm2.jpg","public\/images\/products\/jkm2_1.jpg","public\/images\/products\/jkm2_2.jpg","public\/images\/products\/jkm2_3.jpg","public\/images\/products\/jkm2_4.jpg",""],"colors":[{"id":"3","name":"\u0110en","value":"#000000","image_icon":"public\/images\/products\/jkm2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""],"colors":[{"id":"7","name":"Be","value":"#A59274","image_icon":"public\/images\/products\/kpm3_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"3","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"3","SKU":"KPM3","name":"Qu\u1ea7n Kaki Nam T\u00fai S\u01b0\u1eddn Tr\u01a1n Form Cargo","product_groups_id":"3","sex_id":"7","price":"629000","promotion":"0","images":"public\/images\/products\/kpm3.jpg;public\/images\/products\/kpm3_1.jpg;public\/images\/products\/kpm3_2.jpg;public\/images\/products\/kpm3_3.jpg;public\/images\/products\/kpm3_4.jpg;","quantity":"50","description":null,"date_add":"2023-07-04 09:06:14","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/kpm3.jpg","public\/images\/products\/kpm3_1.jpg","public\/images\/products\/kpm3_2.jpg","public\/images\/products\/kpm3_3.jpg","public\/images\/products\/kpm3_4.jpg",""],"colors":[{"id":"7","name":"Be","value":"#A59274","image_icon":"public\/images\/products\/kpm3_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:47 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"home_index","act":"product","nod":"detail"}:[POST]:{"idProd":"1","browser":"Chrome"}[dUser]null:[dUserClient]null:\nArray
+(
+    [0] => 4
+    [1] => 5
+    [2] => 6
+)
+done##{"status":200,"message":"success","data":{"product":{"id":"1","SKU":"SFM1","name":"\u00c1o S\u01a1 Mi N\u1eef S\u00e1t N\u00e1ch C\u1ed5 V X\u1ebb Tr\u01b0\u1edbc Tr\u01a1n Form Regular","product_groups_id":"1","sex_id":"8","price":"249000","promotion":"240000","images":"public\/images\/products\/sfm1.jpg;public\/images\/products\/sfm1_1.jpg;public\/images\/products\/sfm1_2.jpg;public\/images\/products\/sfm1_3.jpg;public\/images\/products\/sfm1_4.jpg","quantity":"50","description":"","date_add":"2023-07-04 01:08:44","is_hidden":"0","deleted":"0","link":null,"priority":"1"},"images":["public\/images\/products\/sfm1.jpg","public\/images\/products\/sfm1_1.jpg","public\/images\/products\/sfm1_2.jpg","public\/images\/products\/sfm1_3.jpg","public\/images\/products\/sfm1_4.jpg"],"colors":[{"id":"1","name":"Tr\u1eafng","value":"#FFFFFF","image_icon":"public\/images\/products\/sfm1_icon.jpg"},{"id":"2","name":"V\u00e0ng \u0111\u1ea5t","value":"#918051","image_icon":"public\/images\/products\/sfm1_v2_icon.jpg"}],"sizes":[{"id":"4","name":"S","value":"S"},{"id":"5","name":"M","value":"M"},{"id":"6","name":"L","value":"L"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:24:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:25:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:25:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:25:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:26:20 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:26:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:27:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:27:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:28:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:28:20 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@gmail.com","password":"1111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":""}
+
+****** 07/13/23 14:28:23 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@gmail.com","password":"111111","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":403,"message":"error","data":""}
+
+****** 07/13/23 14:28:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"login"}:[POST]:{"typeAccount":"haiduong07112k3@gmail.com","password":"123456","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"user":{"id":"54","fullName":"L\u00ea H\u1ea3i D\u01b0\u01a1ng","email":"haiduong07112k3@gmail.com","facebookId":"0","password":"e10adc3949ba59abbe56e057f20f883e","role_id":"0","status":"0","deleted":"0","joined_at":"2023-07-07 14:55:05","avatar":"public\/images\/user\/avatar.jpg","phone":"0357570455"},"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:28:27 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689233307253"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:28:36 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689233315878"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:28:37 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"SFM1","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"42","user_id":"54","pro_SKU":"SFM1","date_at":"2023-07-13"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:28:39 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"add"}:[POST]:{"sku":"JKM2","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[{"id":"42","user_id":"54","pro_SKU":"SFM1","date_at":"2023-07-13"},{"id":"43","user_id":"54","pro_SKU":"JKM2","date_at":"2023-07-13"}],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:28:44 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"user_login","act":"login","nod":"logout","_":"1689233315879"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":""}
+
+****** 07/13/23 14:29:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:29:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:30:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:30:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:30:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:31:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:32:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:32:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:32:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:33:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:33:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:33:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:34:25 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:34:44 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:35:30 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689233730027"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:35:35 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689233735201"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:35:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:36:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:36:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:36:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:37:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:37:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:38:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:39:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:40:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:41:14 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:41:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:41:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:41:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:42:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:42:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:43:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:44:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:44:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:44:58 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"wishlist","act":"wishlist","nod":"get","_":"1689234297859"}:[POST]:[][dUser]null:[dUserClient]null:\ndone##{"status":200,"message":"success","data":{"wishlist":[],"domain":"http:\/\/thuchanh.local"}}
+
+****** 07/13/23 14:45:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:45:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:45:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:46:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:46:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:47:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:48:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:48:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:49:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:50:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:51:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:52:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:53:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:54:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:55:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:57:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:57:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:58:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:58:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:58:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:59:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/13/23 14:59:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
